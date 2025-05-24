@@ -1,6 +1,6 @@
 # Smart-Survey-Design-Research-Toolkit
 
-An AI-powered platform for building insightful surveys, analysing user responses, and generating personalised feedback using NLP and experimental research methods. It bridges the gap between data collection and real human understanding—ideal for product UX studies, mental health evaluations, and behaviour research.
+An AI-powered platform for building insightful surveys, analysing user responses, and generating personalised feedback using NLP and experimental research methods. It bridges the gap between data collection and real human understanding - ideal for product UX studies, mental health evaluations, and behaviour research.
 
 ---
 
